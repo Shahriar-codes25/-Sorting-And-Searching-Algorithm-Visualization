@@ -2,7 +2,7 @@
 
 An interactive data structures and algorithms visualizer that runs entirely in a single HTML file. Every animation is driven by a real execution trace, not a scripted playback, so what you see on screen is exactly what the code did.
 
-**Live Demo:** [https://dsa-visualize.pages.dev](https://dsa-visualize.pages.dev)
+**Live Demo:** https://sorting-and-searching-algorithm.netlify.app/
 
 ## Overview
 
